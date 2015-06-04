@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $white;
+	background: #333;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: #fc0;
 }
 
 .container {
@@ -46,6 +46,8 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+  color: #ddd;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
   a {
     color: inherit;
   }
@@ -192,7 +194,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: inherit;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -202,7 +204,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: #bbb;
   font-size: 16px;
 
   @include mobile {
