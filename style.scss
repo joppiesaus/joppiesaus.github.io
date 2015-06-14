@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: #333;
+background: #333;
   font: 18px/1.4 $helvetica;
   color: #fc0;
 }
@@ -71,11 +71,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #fc0;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #f90;
   }
 }
 
@@ -254,9 +254,11 @@ nav {
 }
 
 .post {
+  color: #eee;
+  
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid $lightGray;
     padding: 0.1em 1em;
     color: $gray;
     font-size: 22px;
@@ -277,7 +279,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $gray;
 }
 
 footer {
