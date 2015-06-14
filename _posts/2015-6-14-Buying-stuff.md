@@ -2,7 +2,7 @@
 layout: post
 title: I have a hard time buying stuff
 ---
-Today, I bought 3 things: [TIS-100](http://www.zachtronics.com/tis-100/) for €7, [Little Inferno](http://tomorrowcorporation.com/littleinferno), for €2,24, and an aweful Mac Donalds icecream for €2. It looked like this but then white: :hankey: jkjkjk
+Today, I bought 3 things: [TIS-100](http://www.zachtronics.com/tis-100/) for â‚¬7, [Little Inferno](http://tomorrowcorporation.com/littleinferno), for â‚¬2,24, and an aweful Mac Donalds icecream for â‚¬2. It looked like this but then white: :hankey: jkjkjk
 
 Seriously, who eats - or buys - those things? I thought it was tasty but it wasn't. After it I got a slight weirdness in my stomach. Coincidence? For the same money, I could have bought 200 ultra bright red LED's, without even bulk buying.
 
