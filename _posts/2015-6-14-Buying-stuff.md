@@ -2,7 +2,7 @@
 layout: post
 title: I have a hard time buying stuff
 ---
-Today, I bought 3 things: [TIS-100](http://www.zachtronics.com/tis-100/) for €7, [Little Inferno](http://tomorrowcorporation.com/littleinferno), for €2,24, and an aweful Mac Donalds icecream for €2. It looked like this but then white: :hankey: jkjkjk
+Today, I bought 3 things: [TIS-100](http://www.zachtronics.com/tis-100/) for €7, [Little Inferno](http://tomorrowcorporation.com/littleinferno), for €2,24, and an awful Mac Donalds icecream for €2. It looked like this but then white: :hankey: jkjkjk
 
 Seriously, who eats - or buys - those things? I thought it was tasty but it wasn't. After it I got a slight weirdness in my stomach. Coincidence? For the same money, I could have bought 200 ultra bright red LED's, without even bulk buying.
 
@@ -16,7 +16,7 @@ As soon as I thought that, the feels came into my stomach. Stupid thoughts enter
 
 I kept myself from buying it. It was literally moving the cursor with my sweaty hands to the cheesy "Add to cart" button, then thinking 5 minutes about nonsense, then moving it away again. Then speeding up and click it, but then don't proceed any steps further.
 
-Thankfully a friend came over, we ate an icecream(the doomed one), he told me about Little Inferno, I bought it as soon as we got home togheter with TIS-100, without really problems and a good feeling(like when you get a package delivered to your door). We had great fun with Little Inferno, then played some TIS-100, then he went home.
+Thankfully a friend came over, we ate an icecream(the doomed one), he told me about Little Inferno, I bought it as soon as we got home together with TIS-100, without really problems and a good feeling(like when you get a package delivered to your door). We had great fun with Little Inferno, then played some TIS-100, then he went home.
 
 That went pretty good I guess. Last time I bought a PC game was two weeks ago, before that it was just Minecraft back in 2010.
 
@@ -28,7 +28,7 @@ But that's a real pain. I spent days thinking about it, comparing phones, asking
 
 In November 2014, I backed [Espruino Pico](https://www.kickstarter.com/projects/gfw/espruino-pico-javascript-on-a-usb-stick)(which is basically "a small arduino with javascript"). I didn't know anything about electronics back then, so I wanted to try this out. I had two choices: either get a starter kit with some parts, or getting more parts - with a starter kit, but spending more money. I had a few hours to decide in the night.
 
-That night I was staring to my screen, stressed, almost shaking, with painfull eyes. Thinking, thinking, thinking. Arround 1 the morning, I choosed the more parts, but then quickly reverted it back to what I initially had, a starter kit.
+That night I was staring to my screen, stressed, almost shaking, with painfull eyes. Thinking, thinking, thinking. Around 1 the morning, I choosed the more parts, but then quickly reverted it back to what I initially had, a starter kit.
 
 I should've done both. I love it really.
 
