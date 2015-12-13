@@ -10,6 +10,6 @@ title = readLine(stdin)
 echo("And the permalink(file name)? ")
 permalink = readLine(stdin)
 
-writeFile(getDateStr() & '-' & permalink.replace(' ', '-'), "---\nlayout: post\ntitle: " & title & "\n---\n\n")
+writeFile(getDateStr() & '-' & permalink.replace(' ', '-') & ".md", "---\nlayout: post\ntitle: " & title & "\n---\n\n")
 
 echo("Done!")
