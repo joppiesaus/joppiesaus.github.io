@@ -8,9 +8,9 @@ I recently found out that I got an "Great Answer" badge on [stackoverflow](http:
 [The question](http://stackoverflow.com/questions/1785744/) was about someone creating an instance of `Random` in a loop, then generating a random number with it but then he got every time the same result(in the loop). He wondered why, and how he could fix this. The question has now been viewed 63187 times.
 
 [Then I posted](http://stackoverflow.com/a/18267477/2622807) somewhat irrelevantely this:
-```c#
+{% highlight csharp %}
 Random rand = new Random(Guid.NewGuid().GetHashCode());
-```
+{% endhighlight %}
 
 And now it has 101 upvotes, and 2 downvotes.
 
