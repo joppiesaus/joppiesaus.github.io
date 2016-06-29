@@ -22,6 +22,7 @@ url: "http://joppieasus.github.io" # the base hostname & protocol for your site
 twitter_username: JobZweep
 github_username:  joppiesaus
 github_project_url: github.com/joppiesaus/joppiesaus.github.io
+alternative_website: http://joppiesaus.function1.nl/
 
 permalink: /:title/
 

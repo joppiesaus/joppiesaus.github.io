@@ -1,0 +1,36 @@
+---
+layout: default
+---
+{% comment %}
+I know this is agains the rules of Jekyll, but this is easy!
+EDIT: I've made a rather large mistake
+{% endcomment %}
+
+<article class="post">
+
+    <a href="{{ site.basurl }}{{ page.url }}">
+        <h1 class="post-title">{{ page.title }}</h1>
+    </a>
+
+    <table id="aboutme">
+        <tbody><tr><th colspan="2" class="blurcolorthing">Me</th></tr>
+        <tr><td>Name</td><td>Job</td></tr>
+        <tr><td>Gender</td><td>Male</td></tr>
+        <tr><td>Born</td><td>March 3, 1999</td></tr>
+        <tr><td>Job</td><td>That's my name</td></tr>
+        <tr><td>Height</td><td>Long</td></tr>
+        <tr><td>Weight</td><td>Not very</td></tr>
+        <tr><td>Religion</td><td>None</td></tr>
+        <tr><td>Political views</td><td>Confused</td></tr>
+        <tr><td>Economy</td><td>Ok</td></tr>
+        <tr><td>Intelligence</td><td>Yes</td></tr>
+        <tr><td>Humor</td><td>Bad</td></tr>
+        <tr><td>Seecrets</td><td>Secret</td></tr>
+        <tr><td class="link">E-Mail</td><td><a href="mailto:{{ site.email }}"><code class="blurcolorthing">{{ site.email }}</code></a></td></tr>
+        <tr><td class="link">GitHub</td><td><a href="//github.com/{{ site.github_username }}"><code class="blurcolorthing">{{ site.github_username }}</code></a></td>
+        {% if site.alternative_website %}<tr><td class="link">Website</td><td><a href="{{ site.alternative_website }}"><code class="blurcolorthing">{{ site.alternative_website }}</code></a></td>{% endif %}
+    </tbody></table>
+
+    {{ content }}
+
+</article>
