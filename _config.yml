@@ -32,3 +32,4 @@ sass:
 
 gems:
     - jemoji
+    - jekyll-sitemap
