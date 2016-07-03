@@ -28,6 +28,7 @@ EDIT: I've made a rather large mistake
         <tr><td>Seecrets</td><td>Secret</td></tr>
         <tr><td class="link">E-Mail</td><td><a href="mailto:{{ site.email }}"><code class="blurcolorthing">{{ site.email }}</code></a></td></tr>
         <tr><td class="link">GitHub</td><td><a href="//github.com/{{ site.github_username }}"><code class="blurcolorthing">{{ site.github_username }}</code></a></td>
+        {% if site.twitter_username %}<tr><td class="link">Twitter</td><td><a href="//twitter.com/{{ site.twitter_username }}"><code class="blurcolorthing">{{ site.twitter_username }}</code></a></td>{% endif %}
         {% if site.alternative_website %}<tr><td class="link">Website</td><td><a href="{{ site.alternative_website }}"><code class="blurcolorthing">here</code></a></td>{% endif %}
     </tbody></table>
 
