@@ -15,6 +15,7 @@ email: job@function1.nl
 description: > # this means to ignore newlines until "baseurl:"
   I like to do stuff
 motto: this is where I post things
+language: en # The language of the website(used in <head lang="<language>">)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://joppieasus.github.io" # the base hostname & protocol for your site
 twitter_username: JobZweep
